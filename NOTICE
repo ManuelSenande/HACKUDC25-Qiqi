@@ -1,0 +1,13 @@
+Qiqi Chatbot - Sistema de Análisis Emocional con IA
+Copyright © [2025] [Equipo de amigos para el HACKATHON de la fic]
+
+Este proyecto se distribuye bajo licencia dual:
+- MIT License (https://opensource.org/licenses/MIT)
+- Apache License 2.0 (http://www.apache.org/licenses/LICENSE-2.0)
+
+Componentes de terceros:
+------------------------------------------------------------------
+Ollama - Framework de ejecución de modelos de lenguaje
+Copyright © 2023 Ollama Inc.
+Licencia: Términos de Servicio Propietarios
+Disponible en: https://ollama.ai/terms
